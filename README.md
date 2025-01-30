@@ -5,7 +5,6 @@
 - [⚙️ Tech Stack](#%EF%B8%8F-tech-stack)
 - [📊 Features](#-features)
 - [📌 Data Model](#-data-model)
-- [🔗 GitHub Repository](#-github-repository)
 
 ## 🎤 Introduction
 The **Music Store Analysis** project utilizes SQL to analyze customer purchases, artist earnings, and genre popularity. The goal is to derive meaningful business insights from sales data, improving decision-making processes.
